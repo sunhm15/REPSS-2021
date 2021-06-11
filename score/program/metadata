@@ -1,0 +1,2 @@
+command: python $program/evaluate.py $input $output
+description: track 1 evaluation program.

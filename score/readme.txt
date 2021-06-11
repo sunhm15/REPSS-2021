@@ -1,0 +1,2 @@
+The program folder has the evaluation program to calculate the metrics including M_IBI, SD_IBI, MAE_HR, RMSE_HR, R_HR.
+The input folder has the ground truth and submission samples, which are the binary vectors saved as .npy files.
